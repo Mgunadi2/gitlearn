@@ -1,1 +1,2 @@
 How to create a new file on bash
+Learn to pull from github desktop
